@@ -47,46 +47,43 @@ Hello! I am a **Computer Science & Engineering Student at GIET University**, spe
 </div>
 
 <br/>
-
 ## 🧰 Tech Stack
 
 <div align="center">
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
-<img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />
-<img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" />
-<img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" />
-<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="CSS3" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL" />
 
 <br/><br/>
 
 **AI / ML / Data Science**
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="PyTorch" />
-<img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" alt="OpenCV" />
-<img src="https://skillicons.dev/icons?i=sklearn" title="scikit-learn" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" title="Hugging Face" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" title="LangChain" alt="LangChain" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" title="Pandas" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" title="NumPy" alt="NumPy" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" title="PyTorch" alt="PyTorch" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" title="OpenCV" alt="OpenCV" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" title="scikit-learn" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" title="Hugging Face" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" title="LangChain" alt="LangChain" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" alt="NumPy" />
 
 <br/><br/>
 
 **Backend, Web & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="Flask" />
-<img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" />
-<img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" />
-<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
-<img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" title="Streamlit" alt="Streamlit" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" title="Render" alt="Render" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" title="SQLite" alt="SQLite" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" title="VS Code" alt="VS Code" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub" alt="GitHub" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" title="Streamlit" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" title="Render" alt="Render" />
 
 </div>
-
-<br/>
 
 ## 🌟 Featured Projects
 
