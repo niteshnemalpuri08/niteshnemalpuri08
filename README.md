@@ -117,14 +117,11 @@
 <div align="center">
 
 <!-- General Stats Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=niteshnemalpuri08&theme=tokyonight" width="48%" alt="GitHub Stats" />
-
-<!-- Top Languages Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=niteshnemalpuri08&theme=tokyonight" width="48%" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=niteshnemalpuri08&theme=tokyonight" width="97%" alt="GitHub Stats" />
 
 <br /><br />
 
-<!-- Interactive Contribution Activity Graph -->
+<!-- Full Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=niteshnemalpuri08&theme=tokyo-night&hide_border=true" width="97%" alt="Activity Graph" />
 
 </div>
