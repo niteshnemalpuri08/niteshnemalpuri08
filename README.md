@@ -116,19 +116,18 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=niteshnemalpuri08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="48%" alt="Nitesh's GitHub Stats" />
+<!-- General Stats Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=niteshnemalpuri08&theme=tokyonight" width="48%" alt="GitHub Stats" />
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshnemalpuri08&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" alt="Top Languages" />
+<!-- Top Languages Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=niteshnemalpuri08&theme=tokyonight" width="48%" alt="Top Languages" />
 
 <br /><br />
 
-<!-- Streak Stats (Updated Domain) -->
-<img src="https://streak-stats.demolab.com/?user=niteshnemalpuri08&theme=tokyonight&hide_border=true&cache_seconds=86400" width="97%" alt="GitHub Streak" />
+<!-- Interactive Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=niteshnemalpuri08&theme=tokyo-night&hide_border=true" width="97%" alt="Activity Graph" />
 
 </div>
-
 ### 📫 Let's Connect
 
 <div align="center">
