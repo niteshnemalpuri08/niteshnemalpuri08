@@ -116,16 +116,16 @@
 
 <div align="center">
 
-<!-- GitHub General Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=niteshnemalpuri08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=niteshnemalpuri08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="48%" alt="Nitesh's GitHub Stats" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshnemalpuri08&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshnemalpuri08&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" alt="Top Languages" />
 
 <br /><br />
 
-<!-- Updated Working Streak Stats (demolab.com) -->
-<img src="https://streak-stats.demolab.com/?user=niteshnemalpuri08&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+<!-- Streak Stats (Updated Domain) -->
+<img src="https://streak-stats.demolab.com/?user=niteshnemalpuri08&theme=tokyonight&hide_border=true&cache_seconds=86400" width="97%" alt="GitHub Streak" />
 
 </div>
 
