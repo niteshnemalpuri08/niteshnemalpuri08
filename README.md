@@ -2,15 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:9146FF&height=200&section=header&text=Nitesh%20Nemalpuri&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%" />
 
-<a href="https://github.com/niteshnemalpuri08">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Building+Agri-Tech+%26+Deepfake+Detection+Systems;GDG+TechSprint+1st+Place+Winner+%F0%9F%A5%87;RAG+Pipelines+%C2%B7+Computer+Vision+%C2%B7+Full-Stack;Member+Technical+%40+Innotech+Club+GIETU" alt="Typing SVG" />
-</a>
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niteshnemalpuri)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niteshnemalpuri17@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niteshnemalpuri08)
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=niteshnemalpuri08&color=61dafb&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
@@ -20,24 +18,26 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-nitesh:
-  role: "Computer Science & Engineering Student, GIET University"
-  focus: ["Data Science", "Machine Learning", "Computer Vision", "Full-Stack Dev"]
-  leadership: "Member Technical @ Innotech Club GIETU"
-  currently_building:
-    - "Offline-first AI decision engines"
-    - "RAG-based document QA systems"
-  wins: ["🥇 1st Place — GDG TechSprint Hackathon", "🥈 5th Place — HackNovation 1.0"]
-  ask_me_about: ["Computer vision pipelines", "Generative AI apps", "Flask backend architecture"]
-```
+Hi there! I am a **Computer Science & Engineering student at GIET University** with a focus on building AI-driven web applications and scalable machine learning pipelines.
+
+- 🎓 **Education:** B.Tech in CSE at **GIET University, Gunupur**
+- 🧑‍💻 **Leadership:** **Member Technical** at **Innotech Club, GIETU**
+- 🧠 **Technical Focus:** Data Science, Machine Learning, Computer Vision & Full-Stack Development
+- 🔭 **Currently Building:** Offline-first AI decision engines & RAG-based document QA systems
+- 💬 **Ask Me About:** Computer vision pipelines, generative AI applications, or Flask backend architectures
 
 <br/>
 
-## 🏆 Trophies
+## 🏆 Achievements & Highlights
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=niteshnemalpuri08&theme=tokyonight&no-frame=true&column=6&margin-w=10&row=1" alt="GitHub Trophies" />
+
+| Status | Achievement / Event | Project / Focus |
+| :---: | :--- | :--- |
+| 🥇 | **1st Place (Gold)** — GDG TechSprint Hackathon | **GIETU Nexus** (AI Semantic Search Engine) |
+| 🥈 | **5th Place** — HackNovation 1.0 | **TrueFrame** (AI Deepfake Detector) |
+| 🎯 | **National Finalist** — Enigma Quizzard | IIT Kharagpur |
+
 </div>
 
 <br/>
@@ -50,6 +50,8 @@ nitesh:
 <br/>
 <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
 
+<br/><br/>
+
 **AI / ML / Data Science**
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" />
@@ -58,7 +60,9 @@ nitesh:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Backend, Web & Deploy**
+<br/><br/>
+
+**Backend, Web & Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=flask,sqlite,vscode,git,github" />
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -81,7 +85,7 @@ Offline-first decision engine turning any smartphone into an expert agronomist �
 
 `Gemini 1.5 Flash` `Flask` `PWA`
 
-[🌐 Live App](https://agriustaad.onrender.com)
+[🌐 Visit Live App](https://agriustaad.onrender.com)
 
 </td>
 <td width="50%" valign="top">
@@ -93,7 +97,7 @@ Academic management system combining facial recognition with predictive performa
 
 `Flask` `Scikit-Learn` `OpenCV`
 
-[🌐 Live App](https://visionvault2-0.onrender.com)
+[🌐 Visit Live App](https://visionvault2-0.onrender.com)
 
 </td>
 </tr>
@@ -107,7 +111,7 @@ Transforms static institutional archives into an interactive, searchable knowled
 
 `OCR` `Gemini LLM` `Streamlit`
 
-[🌐 Live App](https://gietu-nexus.streamlit.app)
+[🌐 Visit Live App](https://gietu-nexus.streamlit.app)
 
 </td>
 <td width="50%" valign="top">
@@ -119,7 +123,7 @@ Enterprise-grade deepfake detection pipeline for verifying video authenticity at
 
 `PyTorch` `Hugging Face` `OpenCV` `Streamlit`
 
-[🌐 Live App](https://trueframes.streamlit.app)
+[🌐 Visit Live App](https://trueframes.streamlit.app)
 
 </td>
 </tr>
@@ -149,30 +153,16 @@ Predictive early-warning system that flags attendance risk trends before they be
 
 <br/>
 
-## 🥇 Honors & Achievements
-
-| Achievement | Event | Project |
-|---|---|---|
-| 🥇 **1st Place (Gold)** | GDG TechSprint Hackathon | GIETU Nexus |
-| 🥈 **5th Place** | HackNovation 1.0 | TrueFrame |
-| 🎯 **Finalist** | Enigma Quizzard — IIT Kharagpur | — |
-
-<br/>
-
-## 📈 GitHub Activity
+## 📈 GitHub Activity & Statistics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=niteshnemalpuri08&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niteshnemalpuri08&theme=tokyonight" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=niteshnemalpuri08&theme=tokyo-night&hide_border=true" width="97%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=niteshnemalpuri08&theme=tokyonight" width="49%" alt="GitHub Profile Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niteshnemalpuri08&theme=tokyonight" width="49%" alt="Repos Per Language" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshnemalpuri08&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=niteshnemalpuri08&theme=tokyo-night&hide_border=true" width="98%" alt="Activity Graph" />
 
 </div>
 
@@ -188,7 +178,7 @@ Predictive early-warning system that flags attendance risk trends before they be
 
 <br/>
 
-<sub>⭐ If any of these projects helped you, a star goes a long way.</sub>
+<sub>⭐ If any of these projects helped you, feel free to leave a star!</sub>
 
 </div>
 
