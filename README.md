@@ -18,13 +18,13 @@
 
 ## 🧑‍💻 About Me
 
-Hi there! I am a **Computer Science & Engineering student at GIET University** with a focus on building AI-driven web applications and scalable machine learning pipelines.
+Hello! I am a **Computer Science & Engineering Student at GIET University**, specializing in AI-driven web applications and scalable machine learning workflows.
 
-- 🎓 **Education:** B.Tech in CSE at **GIET University, Gunupur**
+- 🎓 **Education:** B.Tech in Computer Science & Engineering, **GIET University, Gunupur**
 - 🧑‍💻 **Leadership:** **Member Technical** at **Innotech Club, GIETU**
-- 🧠 **Technical Focus:** Data Science, Machine Learning, Computer Vision & Full-Stack Development
-- 🔭 **Currently Building:** Offline-first AI decision engines & RAG-based document QA systems
-- 💬 **Ask Me About:** Computer vision pipelines, generative AI applications, or Flask backend architectures
+- 🧠 **Technical Focus:** Data Science, Machine Learning, Computer Vision & Full-Stack Engineering
+- 🔭 **Currently Building:** Offline-first AI decision engines and RAG-based document QA systems
+- 💬 **Ask Me About:** Computer vision pipelines, generative AI applications, and Flask backend architectures
 
 <br/>
 
@@ -62,7 +62,7 @@ Hi there! I am a **Computer Science & Engineering student at GIET University** w
 
 <br/><br/>
 
-**Backend, Web & Tools**
+**Backend, Web & Deploy**
 <br/>
 <img src="https://skillicons.dev/icons?i=flask,sqlite,vscode,git,github" />
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -85,7 +85,7 @@ Offline-first decision engine turning any smartphone into an expert agronomist �
 
 `Gemini 1.5 Flash` `Flask` `PWA`
 
-[🌐 Visit Live App](https://agriustaad.onrender.com)
+[🌐 Live App](https://agriustaad.onrender.com)
 
 </td>
 <td width="50%" valign="top">
@@ -97,7 +97,7 @@ Academic management system combining facial recognition with predictive performa
 
 `Flask` `Scikit-Learn` `OpenCV`
 
-[🌐 Visit Live App](https://visionvault2-0.onrender.com)
+[🌐 Live App](https://visionvault2-0.onrender.com)
 
 </td>
 </tr>
@@ -111,7 +111,7 @@ Transforms static institutional archives into an interactive, searchable knowled
 
 `OCR` `Gemini LLM` `Streamlit`
 
-[🌐 Visit Live App](https://gietu-nexus.streamlit.app)
+[🌐 Live App](https://gietu-nexus.streamlit.app)
 
 </td>
 <td width="50%" valign="top">
@@ -123,7 +123,7 @@ Enterprise-grade deepfake detection pipeline for verifying video authenticity at
 
 `PyTorch` `Hugging Face` `OpenCV` `Streamlit`
 
-[🌐 Visit Live App](https://trueframes.streamlit.app)
+[🌐 Live App](https://trueframes.streamlit.app)
 
 </td>
 </tr>
@@ -153,16 +153,26 @@ Predictive early-warning system that flags attendance risk trends before they be
 
 <br/>
 
-## 📈 GitHub Activity & Statistics
+## 🥇 Honors & Achievements
+
+| Achievement | Event | Project |
+|---|---|---|
+| 🥇 **1st Place (Gold)** | GDG TechSprint Hackathon | GIETU Nexus |
+| 🥈 **5th Place** | HackNovation 1.0 | TrueFrame |
+| 🎯 **Finalist** | Enigma Quizzard — IIT Kharagpur | — |
+
+<br/>
+
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=niteshnemalpuri08&theme=tokyonight" width="49%" alt="GitHub Profile Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niteshnemalpuri08&theme=tokyonight" width="49%" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=niteshnemalpuri08&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niteshnemalpuri08&theme=tokyonight" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=niteshnemalpuri08&theme=tokyo-night&hide_border=true" width="98%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=niteshnemalpuri08&theme=tokyo-night&hide_border=true" width="97%" />
 
 </div>
 
@@ -178,7 +188,7 @@ Predictive early-warning system that flags attendance risk trends before they be
 
 <br/>
 
-<sub>⭐ If any of these projects helped you, feel free to leave a star!</sub>
+<sub>⭐ If any of these projects helped you, a star goes a long way.</sub>
 
 </div>
 
