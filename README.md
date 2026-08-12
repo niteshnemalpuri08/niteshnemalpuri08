@@ -54,25 +54,35 @@ Hello! I am a **Computer Science & Engineering Student at GIET University**, spe
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" />
+<img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" />
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
 
 <br/><br/>
 
 **AI / ML / Data Science**
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" />
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+<img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="PyTorch" />
+<img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" alt="OpenCV" />
+<img src="https://skillicons.dev/icons?i=sklearn" title="scikit-learn" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" title="Hugging Face" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" title="LangChain" alt="LangChain" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" title="Pandas" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" title="NumPy" alt="NumPy" />
 
 <br/><br/>
 
 **Backend, Web & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=flask,sqlite,vscode,git,github" />
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+<img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="Flask" />
+<img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" />
+<img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" />
+<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" title="Streamlit" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" title="Render" alt="Render" />
 
 </div>
 
