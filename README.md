@@ -1,14 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:9146FF&height=200&section=header&text=Nitesh%20Nemalpuri&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%" />
+# Hi, I'm Nitesh Nemalpuri 👋
 
-<br/>
+### Computer Science & Engineering Student | Creative Developer | AI/ML + Full-Stack
+
+<a href="https://github.com/niteshnemalpuri08">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Building+Agri-Tech+%26+Deepfake+Detection+Systems;GDG+TechSprint+1st+Place+Winner+%F0%9F%A5%87;RAG+Pipelines+%C2%B7+Computer+Vision+%C2%B7+Full-Stack;Member+Technical+%40+Innotech+Club+GIETU" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niteshnemalpuri)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niteshnemalpuri17@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niteshnemalpuri08)
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=niteshnemalpuri08&color=61dafb&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
@@ -62,7 +68,7 @@ Hello! I am a **Computer Science & Engineering Student at GIET University**, spe
 
 <br/><br/>
 
-**Backend, Web & Deploy**
+**Backend, Web & Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=flask,sqlite,vscode,git,github" />
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -191,5 +197,3 @@ Predictive early-warning system that flags attendance risk trends before they be
 <sub>⭐ If any of these projects helped you, a star goes a long way.</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:9146FF&height=100&section=footer" width="100%" />
